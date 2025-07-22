@@ -1232,7 +1232,7 @@ h1, h2, h3, h4, h5, h6, figure {
   .btn.with-arrow:hover {
     padding-right: 50px; }
     .btn.with-arrow:hover i {
-      color: #F8F5F0;
+      color: rgba(21, 18, 18, 0.63);
       right: 18px;
       visibility: visible;
       opacity: 1; }
